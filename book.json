@@ -1,11 +1,8 @@
 {
-  "plugins": ["disqus", "ga", "richquotes"],
+  "plugins": ["disqus", "ga", "richquotes", "autocover"],
   "pluginsConfig": {
     "disqus": {
       "shortName": "rorlabnewguide"
-    },
-    "ga": {
-      "token": "UA-30294363-4"
     },
     "richquotes": {
       "todos" : true
